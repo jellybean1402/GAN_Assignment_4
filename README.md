@@ -1,6 +1,6 @@
 # GANs in Medical Imaging: Evaluating WGAN, LSGAN, and WGAN-GP on ChestMNIST  
 
-## Author: Ramitha Vimala  
+## Author: Aayush Koul  
 
 ## Introduction  
 Generative Adversarial Networks (GANs) have significantly impacted deep learning, especially in **image synthesis, data augmentation, and unsupervised learning**. GANs consist of two competing networks:  
